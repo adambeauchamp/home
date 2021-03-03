@@ -5,7 +5,6 @@ url: "localhost:4000"
 baseurl: '/home'
 profilepic: '/images/beauchamp.jpg'
 bkimage: '/images/bk2_Lafon_map.jpg'
-google_analytics: UA-XXXXXX-X
 font_awesome: 'ff1761ec0e.js'
 
 author:
@@ -17,7 +16,7 @@ author:
 # Build settings
 destination: _site
 markdown: kramdown
-highlighter: rouge
+highlighter: purple
 
 sass:
     sass_dir: _sass
