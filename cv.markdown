@@ -1,9 +1,7 @@
 ---
-title: Curriculum Vitae
-layout: "page"
-icon: fa-archive
+layout: page
+title: CV
 permalink: /cv/
-order: 3
 ---
 
 ## Education
