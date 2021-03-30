@@ -47,7 +47,7 @@ Summa cum laude
 
 ## Conference Presentations
 
-Forthcoming: “A Diaspora of Documents: Assembling Archives and Silencing the Past with the Rochambeau Papers.” Paper presented at the LSU Graduate History Conference, Baton Rouge, LA. March 2021.
+“A Diaspora of Documents: Assembling Archives and Silencing the Past with the Rochambeau Papers.” Paper presented at the LSU Graduate History Conference, Baton Rouge, LA. March 2021.
 
 “In Search of a Just & Responsible Culture of Assessment: Two Critical Alternatives to Learning Analytics in Libraries.” Co-presented with Mallary Rawls. Presentation at the Critical Librarianship and Pedagogy Symposium, Tucson, AZ, September 2020. [Postponed from March 2020 due to COVID-19.] Recording available at <https://www.youtube.com/watch?v=t6f_1QvAu_A&feature=youtu.be>. 
 
