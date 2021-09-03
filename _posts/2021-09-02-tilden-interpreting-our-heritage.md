@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Readings in Public History: Transcendental Tilden"
-date:   2021-04-22 09:00:00 -0500
+date:   2021-09-02 09:00:00 -0500
 categories: readings
 tags: public history
 ---
