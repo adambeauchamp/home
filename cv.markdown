@@ -41,7 +41,7 @@ Summa cum laude
 
 “Les Poissons & Louisiana Lagniappe.” Great Rare Books Bake Off Series. *Illuminations: An FSU Special Collections Blog*. 19 November 2020. Available online at <https://fsuspecialcollections.wordpress.com/2020/11/19/les-poissons-louisiana-lagniappe/>. 
 
-“Trust Students, Suspect Algorithms.” *FSU Libraries Blog*. 21 August 2020. Available online at <https://fsulib.wordpress.com/2020/08/21/trust-students-suspect-algorithms/>. 
+“Trust Students, Suspect Algorithms.” *FSU Libraries Blog*. 21 August 2020. Available online at <https://fsulib.com/trust-students-suspect-algorithms/>. 
 
 *Library Instruction Lagniappe*. Personal blog. 2013-2015. Available online at <https://adambeauchamp.wordpress.com/>. 
 
